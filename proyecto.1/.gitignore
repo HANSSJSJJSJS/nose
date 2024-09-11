@@ -1,15 +1,10 @@
-*.log
-*.tmp
-
+.vscode/
 AppData/
 OneDrive/
 Pictures/
 Downloads/
 
-.vscode/
+*.log
+*.tmp
 *.bak
-
-NTUSER.DAT
-*.bak
-*.swp
 
